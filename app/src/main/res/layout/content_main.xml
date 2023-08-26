@@ -9,6 +9,7 @@
     <TextView
         android:text="增加"
 
+        android:textSize="12sp"
 
 
         android:layout_width="wrap_content"
