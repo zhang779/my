@@ -16,6 +16,7 @@
         tools:ignore="MissingConstraints"></TextView>
     <TextView
         android:text="增加"
+        android:textSize="13sp"
 
 
 
